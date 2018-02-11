@@ -414,6 +414,61 @@
       "md5": "f1247a3fc8dc4c4fc78963889f1c1b4b",
       "fileName": "mods/MicdoodleCore-1.10.2-4.0.1.133.jar",
       "fileType": 0
+    },
+    {
+      "name": "BiblioCraft",
+      "nameType": "zipEntry",
+      "version": "2.2.5",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2456/45/BiblioCraft%5bv2.2.5%5d%5bMC1.10.2%5d.jar",
+      "downloadType": "directDownload",
+      "md5": "a5631143f1166a0b9f179c8531e131f0",
+      "fileName": "mods/BiblioCraft%5bv2.2.5%5d%5bMC1.10.2%5d.jar",
+      "fileType": 0
+    },
+    {
+      "name": "thermaldynamics",
+      "nameType": "zipEntry",
+      "version": "2.0.11.19",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2489/724/ThermalDynamics-1.10.2-2.0.11.19-universal.jar",
+      "downloadType": "directDownload",
+      "md5": "aec0366ccce5c96caea999c3637f1043",
+      "fileName": "mods/ThermalDynamics-1.10.2-2.0.11.19-universal.jar",
+      "fileType": 0
+    },
+    {
+      "name": "cofhcore",
+      "nameType": "zipEntry",
+      "version": "4.1.12.17",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2469/611/CoFHCore-1.10.2-4.1.12.17-universal.jar",
+      "downloadType": "directDownload",
+      "md5": "d89e63564cc338176c16bea1430063ed",
+      "fileName": "mods/CoFHCore-1.10.2-4.1.12.17-universal.jar",
+      "fileType": 0
+    },
+    {
+      "name": "thermalfoundation",
+      "nameType": "zipEntry",
+      "version": "2.1.5.12",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2453/219/ThermalFoundation-1.10.2-2.1.5.12-universal.jar",
+      "downloadType": "directDownload",
+      "md5": "fd3bdf22022c8efc242c9cfdc95a4f6e",
+      "fileName": "mods/ThermalFoundation-1.10.2-2.1.5.12-universal.jar",
+      "fileType": 0
+    },
+    {
+      "name": "thermalexpansion",
+      "nameType": "zipEntry",
+      "version": "5.1.10.28",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2489/698/ThermalExpansion-1.10.2-5.1.10.28-universal.jar",
+      "downloadType": "directDownload",
+      "md5": "2113f3bee24ba2db47048240301420a2",
+      "fileName": "mods/ThermalExpansion-1.10.2-5.1.10.28-universal.jar",
+      "fileType": 0
     }
   ]
 }
