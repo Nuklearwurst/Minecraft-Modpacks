@@ -513,6 +513,17 @@
       "md5": "41e5e678fe19c0d9f593870f71996549",
       "fileName": "mods/CodeChickenLib-1.10.2-2.5.9.320-universal.jar",
       "fileType": 0
+    },
+    {
+      "name": "astralsorcery",
+      "nameType": "zipEntry",
+      "version": "1.4.5",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2445/788/astralsorcery-1.4.5.jar",
+      "downloadType": "directDownload",
+      "md5": "4c4528da4935d32c2dec7b350b6c52c6",
+      "fileName": "mods/astralsorcery-1.4.5.jar",
+      "fileType": 0
     }
   ]
 }
