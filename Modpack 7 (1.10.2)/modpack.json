@@ -229,22 +229,11 @@
       "fileType": 0
     },
     {
-      "name": "IC2",
-      "nameType": "zipEntry",
-      "version": "2.6.252-ex110",
-      "versionType": "zipEntry",
-      "downloadUrl": "https://media.forgecdn.net/files/2457/396/industrialcraft-2-2.6.252-ex110.jar",
-      "downloadType": "directDownload",
-      "md5": "d9a53327daed811d842486a8aeeca68b",
-      "fileName": "mods/industrialcraft-2-2.6.252-ex110.jar",
-      "fileType": 0
-    },
-    {
       "name": "dangertechportals",
       "nameType": "zipEntry",
       "version": "1.6.5-alpha",
       "versionType": "zipEntry",
-      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Mods/Dangerous%20Technology/DangerousTechnology-1.6.5-alpha-mindim.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/mods/DangerousTechnology-1.6.5-alpha-mindim.jar",
       "downloadType": "directDownload",
       "md5": "fdc859fd744af131eb00b0b4df313555",
       "fileName": "mods/DangerousTechnology-1.6.5-alpha-mindim.jar",
@@ -255,7 +244,7 @@
       "nameType": "zipEntry",
       "version": "1.6.5-alpha",
       "versionType": "zipEntry",
-      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Mods/Dangerous%20Technology/DangerousTechnology-1.6.5-alpha-nwcore.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/mods/DangerousTechnology-1.6.5-alpha-nwcore.jar",
       "downloadType": "directDownload",
       "md5": "51ad7766b90c69b0ba4c7f0a55c5a371",
       "fileName": "mods/DangerousTechnology-1.6.5-alpha-nwcore.jar",
@@ -266,31 +255,20 @@
       "nameType": "zipEntry",
       "version": "1.6.5-alpha",
       "versionType": "zipEntry",
-      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Mods/Dangerous%20Technology/DangerousTechnology-1.6.5-alpha-techmobs.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/mods/DangerousTechnology-1.6.5-alpha-techmobs.jar",
       "downloadType": "directDownload",
       "md5": "b59c16183540e2a45acbc362adb3f2f3",
       "fileName": "mods/DangerousTechnology-1.6.5-alpha-techmobs.jar",
       "fileType": 0
     },
     {
-      "name": "config/IC2.ini",
-      "nameType": "file",
-      "version": "1.0",
-      "versionType": "tracked",
-      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Modpack%205%20%281.10.2%29/config/IC2.ini",
-      "downloadType": "directDownload",
-      "md5": "bb6f0cc4a3fffd0960c3e7e730cf623a",
-      "fileName": "config/IC2.ini",
-      "fileType": 0
-    },
-    {
       "name": "config/Quark.cfg",
       "nameType": "file",
-      "version": "28.12.2016",
+      "version": "11.02.2018",
       "versionType": "tracked",
-      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Modpack%205%20%281.10.2%29/config/Quark.cfg",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/config/Quark.cfg",
       "downloadType": "directDownload",
-      "md5": "59fcbc91d49410e9ff80df9d6d309598",
+      "md5": "3817076a6478787ed966e15e373f5764",
       "fileName": "config/Quark.cfg",
       "fileType": 0
     },
@@ -328,24 +306,13 @@
       "fileType": 0
     },
     {
-      "name": "compactsolars",
-      "nameType": "zipEntry",
-      "version": "1.10.2-5.0.12.336",
-      "versionType": "zipEntry",
-      "downloadUrl": "https://media.forgecdn.net/files/2447/200/CompactSolars-1.10.2-5.0.12.336-universal.jar",
-      "downloadType": "directDownload",
-      "md5": "f273d7d3f7b0f4f81d2f30809da27772",
-      "fileName": "mods/CompactSolars-1.10.2-5.0.12.336-universal.jar",
-      "fileType": 0
-    },
-    {
       "name": "config/dangertechmobs.cfg",
       "nameType": "file",
-      "version": "12.01.2017",
+      "version": "11.02.2018",
       "versionType": "tracked",
-      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Modpack%205%20%281.10.2%29/config/dangertechmobs.cfg",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/config/dangertechmobs.cfg",
       "downloadType": "directDownload",
-      "md5": "77252b382b0aca235c40d6aac36e64bd",
+      "md5": "1496d69425473c044bcd01bcde9db384",
       "fileName": "config/dangertechmobs.cfg",
       "fileType": 0
     },
@@ -468,6 +435,50 @@
       "downloadType": "directDownload",
       "md5": "2113f3bee24ba2db47048240301420a2",
       "fileName": "mods/ThermalExpansion-1.10.2-5.1.10.28-universal.jar",
+      "fileType": 0
+    },
+    {
+      "name": "config/roguelike_dungeons/roguelike.cfg",
+      "nameType": "file",
+      "version": "11.02.2018",
+      "versionType": "tracked",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/config/roguelike_dungeons/roguelike.cfg",
+      "downloadType": "directDownload",
+      "md5": "e6ce22f126262cb15eb537e9271f9a96",
+      "fileName": "config/roguelike_dungeons/roguelike.cfg",
+      "fileType": 0
+    },
+    {
+      "name": "forestry",
+      "nameType": "zipEntry",
+      "version": "5.2.17.388",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2476/716/forestry_1.10.2-5.2.17.388.jar",
+      "downloadType": "directDownload",
+      "md5": "818ccca68a261b8ee13512d873b17cc2",
+      "fileName": "mods/forestry_1.10.2-5.2.17.388.jar",
+      "fileType": 0
+    },
+    {
+      "name": "appliedenergistics2",
+      "nameType": "zipEntry",
+      "version": "rv4-stable-1",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2454/983/appliedenergistics2-rv4-stable-1.jar",
+      "downloadType": "directDownload",
+      "md5": "b68cc29d24f3299a48e057535175bb46",
+      "fileName": "mods/appliedenergistics2-rv4-stable-1.jar",
+      "fileType": 0
+    },
+    {
+      "name": "powersuits",
+      "nameType": "zipEntry",
+      "version": "1.10.2-1.2.129",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2523/484/ModularPowersuits-1.10.2-1.2.129.jar",
+      "downloadType": "directDownload",
+      "md5": "d066a54fe65b0b452f6133a115853ee4",
+      "fileName": "mods/ModularPowersuits-1.10.2-1.2.129.jar",
       "fileType": 0
     }
   ]
