@@ -491,6 +491,17 @@
       "md5": "53896b5af35f6db0f1d9d46b0e7dc908",
       "fileName": "mods/ChestTransporter-1.10.2-2.5.18.jar",
       "fileType": 0
+    },
+    {
+      "name": "Chameleon",
+      "nameType": "zipEntry",
+      "version": "1.10.2-2.3.0",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2419/174/Chameleon-1.10.2-2.3.0.jar",
+      "downloadType": "directDownload",
+      "md5": "68ae127b0083d225abffda81f8089d23",
+      "fileName": "mods/Chameleon-1.10.2-2.3.0.jar",
+      "fileType": 0
     }
   ]
 }
