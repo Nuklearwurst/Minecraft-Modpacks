@@ -502,6 +502,17 @@
       "md5": "68ae127b0083d225abffda81f8089d23",
       "fileName": "mods/Chameleon-1.10.2-2.3.0.jar",
       "fileType": 0
+    },
+    {
+      "name": "CodeChickenLib",
+      "nameType": "zipEntry",
+      "version": "2.5.9.320",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2509/806/CodeChickenLib-1.10.2-2.5.9.320-universal.jar",
+      "downloadType": "directDownload",
+      "md5": "41e5e678fe19c0d9f593870f71996549",
+      "fileName": "mods/CodeChickenLib-1.10.2-2.5.9.320-universal.jar",
+      "fileType": 0
     }
   ]
 }
