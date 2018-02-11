@@ -13,7 +13,7 @@
       "%%\u003dforge_post_1.10"
     ],
     "libraries": [
-      "{\"name\":\"common.nuklearwurst:updater:2.2.3\",\"url\":\"https://dl.dropboxusercontent.com/u/87474141/minecraft/modupdater/updater/\"}"
+      "{\"name\":\"common.nuklearwurst:updater:2.2.3\",\"url\":\"https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Updater/\"}"
     ]
   },
   "modpackRepo": "",
@@ -479,6 +479,17 @@
       "downloadType": "directDownload",
       "md5": "d066a54fe65b0b452f6133a115853ee4",
       "fileName": "mods/ModularPowersuits-1.10.2-1.2.129.jar",
+      "fileType": 0
+    },
+    {
+      "name": "ChestTransporter",
+      "nameType": "zipEntry",
+      "version": "1.10.2-2.5.18",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2460/959/ChestTransporter-1.10.2-2.5.18.jar",
+      "downloadType": "directDownload",
+      "md5": "53896b5af35f6db0f1d9d46b0e7dc908",
+      "fileName": "mods/ChestTransporter-1.10.2-2.5.18.jar",
       "fileType": 0
     }
   ]
