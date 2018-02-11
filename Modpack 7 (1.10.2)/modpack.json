@@ -524,6 +524,50 @@
       "md5": "4c4528da4935d32c2dec7b350b6c52c6",
       "fileName": "mods/astralsorcery-1.4.5.jar",
       "fileType": 0
+    },
+    {
+      "name": "config/immersiveengineering.cfg",
+      "nameType": "file",
+      "version": "11.02.2018",
+      "versionType": "tracked",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/config/immersiveengineering.cfg",
+      "downloadType": "directDownload",
+      "md5": "e955acbf50b23c08f54ea96cfc11c44c",
+      "fileName": "config/immersiveengineering.cfg",
+      "fileType": 0
+    },
+    {
+      "name": "config/forestry/common.cfg",
+      "nameType": "file",
+      "version": "11.02.2018",
+      "versionType": "tracked",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/config/forestry/common.cfg",
+      "downloadType": "directDownload",
+      "md5": "698322f7b5be837af5143e4a341b3322",
+      "fileName": "config/forestry/common.cfg",
+      "fileType": 0
+    },
+    {
+      "name": "config/cofh/world/thermalfoundation_oil.json",
+      "nameType": "file",
+      "version": "1.0",
+      "versionType": "tracked",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/config/cofh/world/thermalfoundation_oil.json",
+      "downloadType": "directDownload",
+      "md5": "19380151dc427f9abb98ccd2df2a70f1",
+      "fileName": "config/cofh/world/thermalfoundation_oil.json",
+      "fileType": 0
+    },
+    {
+      "name": "config/Galacticraft/core.conf",
+      "nameType": "file",
+      "version": "1.0",
+      "versionType": "tracked",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/config/Galacticraft/core.conf",
+      "downloadType": "directDownload",
+      "md5": "363594e0a3124a4f8ef4d5855078428f",
+      "fileName": "config/Galacticraft/core.conf",
+      "fileType": 0
     }
   ]
 }
