@@ -1,0 +1,419 @@
+{
+  "modpackName": "Modpack 7",
+  "updaterRevision": 3,
+  "minecraft": {
+    "installInfoUrl": "\u003chtml\u003e \u003chead\u003e \u003cstyle type\u003d\"text/css\"\u003e \tb {font-size:2.3em;} \u003c/style\u003e \u003c/head\u003e \u003cbody\u003e \u003ctable\u003e\u003ctr\u003e \u003ctd\u003e \u003cimg src\u003d\"https://lh5.googleusercontent.com/-3uh5QCZ25RI/Uz8KT07gItI/AAAAAAAAAB8/RMRCLt7ZSLE/w251-h250-no/FravokadoHG4.png\" alt\u003d\"F42\" width\u003d\"42\" height\u003d\"42\" hspace\u003d\"5\" vspace\u003d\"5\"\u003e \u003c/td\u003e \u003ctd\u003e \u003cb\u003eModpack 5\u003c/b\u003e \u003c/td\u003e \u003c/tr\u003e\u003c/table\u003e  Minecraft Forge wird mit installiert!!!  \u003cbr\u003e\u003cbr\u003e \u003cp\u003e Wenn der Installer ausgef\u0026uuml;hrt wird, wird nach dem .minecraft-Ordner gefragt.\u003cbr\u003e Dieser ist normalerweise an der voreingestellten Stelle zu finden.\u003cbr\u003e Normalerweise muss hier nichts umgestellt werden! \u003c/p\u003e \u003cbr\u003e \u003cp\u003e \tEin MinecraftLauncher Profil kann automatisch mit empfohlenden Einstllungen erstellt werden.\u003cbr\u003e \tDazu muss einfach \u003ci\u003ecreate profile\u003c/i\u003e angehakt werden!\t \u003c/p\u003e \u003cp\u003e \tViel Spa\u0026szlig;!! \u003c/p\u003e  \u003c/body\u003e \u003c/html\u003e",
+    "version": "1.0",
+    "versionName": "2511",
+    "jarUpdateType": "forge_inherit",
+    "jsonUpdateType": "auto_generate",
+    "arguments": [
+      "%%\u003dminecraft",
+      "%%\u003dupdater",
+      "%%\u003dforge_post_1.10"
+    ],
+    "libraries": [
+      "{\"name\":\"common.nuklearwurst:updater:2.2.3\",\"url\":\"https://dl.dropboxusercontent.com/u/87474141/minecraft/modupdater/updater/\"}"
+    ]
+  },
+  "modpackRepo": "",
+  "blacklist": [],
+  "files": [
+    {
+      "name": "mods/MCMultiPart-1.4.0-universal.jar",
+      "nameType": "file",
+      "version": "mods/MCMultiPart-1.4.0-universal.jar",
+      "versionType": "file",
+      "downloadUrl": "https://media.forgecdn.net/files/2381/408/MCMultiPart-1.4.0-universal.jar",
+      "downloadType": "directDownload",
+      "md5": "34b2ece9450a7762b48ad956f15bc171",
+      "fileName": "mods/MCMultiPart-1.4.0-universal.jar",
+      "fileType": 0
+    },
+    {
+      "name": "AutoRegLib",
+      "nameType": "zipEntry",
+      "version": "1.0-2",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2327/403/AutoRegLib-1.0-2.jar",
+      "downloadType": "directDownload",
+      "md5": "527a86197be2f4c804747a7ae564a181",
+      "fileName": "mods/AutoRegLib-1.0-2.jar",
+      "fileType": 0
+    },
+    {
+      "name": "Baubles",
+      "nameType": "zipEntry",
+      "version": "1.10.2-1.3.13",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2518/666/Baubles-1.10.2-1.3.13.jar",
+      "downloadType": "directDownload",
+      "md5": "16eace0cf788c69566dfb4df7519509e",
+      "fileName": "mods/Baubles-1.10.2-1.3.13.jar",
+      "fileType": 0
+    },
+    {
+      "name": "guideapi",
+      "nameType": "zipEntry",
+      "version": "1.10.2-2.0.3-46",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2380/911/Guide-API-1.10.2-2.0.3-46.jar",
+      "downloadType": "directDownload",
+      "md5": "2d9d5ea48ecfde3a5407c7babde212fd",
+      "fileName": "mods/Guide-API-1.10.2-2.0.3-46.jar",
+      "fileType": 0
+    },
+    {
+      "name": "inventorytweaks",
+      "nameType": "zipEntry",
+      "version": "1.61-58-a1fd884",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2315/240/InventoryTweaks-1.61-58.jar",
+      "downloadType": "directDownload",
+      "md5": "d1c7fede0527f38a1c8b561416cb7154",
+      "fileName": "mods/InventoryTweaks-1.61-58.jar",
+      "fileType": 0
+    },
+    {
+      "name": "Quark",
+      "nameType": "zipEntry",
+      "version": "r1.1-70",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2363/413/Quark-r1.1-70.jar",
+      "downloadType": "directDownload",
+      "md5": "e2a6a214c4e3c7564ee4550c2fd14054",
+      "fileName": "mods/Quark-r1.1-70.jar",
+      "fileType": 0
+    },
+    {
+      "name": "Morpheus",
+      "nameType": "zipEntry",
+      "version": "1.10.2-3.1.13",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2358/274/Morpheus-1.10.2-3.1.13.jar",
+      "downloadType": "directDownload",
+      "md5": "d20ebb7c3b298b7ea03b8c787fa1bf50",
+      "fileName": "mods/Morpheus-1.10.2-3.1.13.jar",
+      "fileType": 0
+    },
+    {
+      "name": "ironchest",
+      "nameType": "zipEntry",
+      "version": "1.10.2-7.0.15.804",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2425/847/ironchest-1.10.2-7.0.15.804.jar",
+      "downloadType": "directDownload",
+      "md5": "5a051d6544cb96568b15e12253af9f23",
+      "fileName": "mods/ironchest-1.10.2-7.0.15.804.jar",
+      "fileType": 0
+    },
+    {
+      "name": "chiselsandbits",
+      "nameType": "zipEntry",
+      "version": "12.17",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2527/408/chiselsandbits-12.17.jar",
+      "downloadType": "directDownload",
+      "md5": "2e6e3d40bba483dfd4804985dba70bee",
+      "fileName": "mods/chiselsandbits-12.17.jar",
+      "fileType": 0
+    },
+    {
+      "name": "chisel",
+      "nameType": "zipEntry",
+      "version": "2.9.5.11",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2287/442/Chisel-2.9.5.11.jar",
+      "downloadType": "directDownload",
+      "md5": "c76378129307ab7b371bb9b3b8631fce",
+      "fileName": "mods/Chisel-2.9.5.11.jar",
+      "fileType": 0
+    },
+    {
+      "name": "Waila",
+      "nameType": "zipEntry",
+      "version": "1.7.0-B3",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2301/859/Waila-1.7.0-B3_1.9.4.jar",
+      "downloadType": "directDownload",
+      "md5": "ad5733255dac0b85b9bbe38749638060",
+      "fileName": "mods/Waila-1.7.0-B3_1.9.4.jar",
+      "fileType": 0
+    },
+    {
+      "name": "JEI",
+      "nameType": "zipEntry",
+      "version": "3.14.7.420",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2428/966/jei_1.10.2-3.14.7.420.jar",
+      "downloadType": "directDownload",
+      "md5": "3032232d12936443ae20a9ea1b505340",
+      "fileName": "mods/jei_1.10.2-3.14.7.420.jar",
+      "fileType": 0
+    },
+    {
+      "name": "BBG",
+      "nameType": "zipEntry",
+      "version": "5.0.0",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2301/197/BBG-1.9.4-5.0.0.jar",
+      "downloadType": "directDownload",
+      "md5": "f9fa3861ef7483c0706d16297472bd1f",
+      "fileName": "mods/BBG-1.9.4-5.0.0.jar",
+      "fileType": 0
+    },
+    {
+      "name": "BiomesOPlenty",
+      "nameType": "zipEntry",
+      "version": "5.0.0",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2425/769/BiomesOPlenty-1.10.2-5.0.0.2236-universal.jar",
+      "downloadType": "directDownload",
+      "md5": "777fab37c7ebd5dbe56e40c94dfee947",
+      "fileName": "mods/BiomesOPlenty-1.10.2-5.0.0.2236-universal.jar",
+      "fileType": 0
+    },
+    {
+      "name": "BloodMagic",
+      "nameType": "zipEntry",
+      "version": "1.10.2-2.1.11-80",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2439/437/BloodMagic-1.10.2-2.1.11-80.jar",
+      "downloadType": "directDownload",
+      "md5": "6b7c26879c91eda6e3582b86655a3432",
+      "fileName": "mods/BloodMagic-1.10.2-2.1.11-80.jar",
+      "fileType": 0
+    },
+    {
+      "name": "Botania",
+      "nameType": "zipEntry",
+      "version": "r1.9-341",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2391/169/Botania+r1.9-341.jar",
+      "downloadType": "directDownload",
+      "md5": "5c2421b69fb0c119025b6cd6c3814ef9",
+      "fileName": "mods/Botania+r1.9-341.jar",
+      "fileType": 0
+    },
+    {
+      "name": "stevescarts",
+      "nameType": "zipEntry",
+      "version": "2.2.0.86",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2424/803/StevesCarts-1.10.2-2.2.0.86.jar",
+      "downloadType": "directDownload",
+      "md5": "1eeb319638e87d7039c743caf3cf1374",
+      "fileName": "mods/StevesCarts-1.10.2-2.2.0.86.jar",
+      "fileType": 0
+    },
+    {
+      "name": "railcraft",
+      "nameType": "zipEntry",
+      "version": "10.3.1",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2513/722/Railcraft_1.10.2-10.3.1.jar",
+      "downloadType": "directDownload",
+      "md5": "7e4e264ef75d32b094a18ced605dd001",
+      "fileName": "mods/Railcraft_1.10.2-10.3.1.jar",
+      "fileType": 0
+    },
+    {
+      "name": "immersiveengineering",
+      "nameType": "zipEntry",
+      "version": "0.10-61",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2435/559/ImmersiveEngineering-0.10-61.jar",
+      "downloadType": "directDownload",
+      "md5": "dd6be697d602e1be9285278e5b343112",
+      "fileName": "mods/ImmersiveEngineering-0.10-61.jar",
+      "fileType": 0
+    },
+    {
+      "name": "IC2",
+      "nameType": "zipEntry",
+      "version": "2.6.252-ex110",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2457/396/industrialcraft-2-2.6.252-ex110.jar",
+      "downloadType": "directDownload",
+      "md5": "d9a53327daed811d842486a8aeeca68b",
+      "fileName": "mods/industrialcraft-2-2.6.252-ex110.jar",
+      "fileType": 0
+    },
+    {
+      "name": "dangertechportals",
+      "nameType": "zipEntry",
+      "version": "1.6.5-alpha",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Mods/Dangerous%20Technology/DangerousTechnology-1.6.5-alpha-mindim.jar",
+      "downloadType": "directDownload",
+      "md5": "fdc859fd744af131eb00b0b4df313555",
+      "fileName": "mods/DangerousTechnology-1.6.5-alpha-mindim.jar",
+      "fileType": 0
+    },
+    {
+      "name": "dangertech",
+      "nameType": "zipEntry",
+      "version": "1.6.5-alpha",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Mods/Dangerous%20Technology/DangerousTechnology-1.6.5-alpha-nwcore.jar",
+      "downloadType": "directDownload",
+      "md5": "51ad7766b90c69b0ba4c7f0a55c5a371",
+      "fileName": "mods/DangerousTechnology-1.6.5-alpha-nwcore.jar",
+      "fileType": 0
+    },
+    {
+      "name": "dangertechmobs",
+      "nameType": "zipEntry",
+      "version": "1.6.5-alpha",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Mods/Dangerous%20Technology/DangerousTechnology-1.6.5-alpha-techmobs.jar",
+      "downloadType": "directDownload",
+      "md5": "b59c16183540e2a45acbc362adb3f2f3",
+      "fileName": "mods/DangerousTechnology-1.6.5-alpha-techmobs.jar",
+      "fileType": 0
+    },
+    {
+      "name": "config/IC2.ini",
+      "nameType": "file",
+      "version": "1.0",
+      "versionType": "tracked",
+      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Modpack%205%20%281.10.2%29/config/IC2.ini",
+      "downloadType": "directDownload",
+      "md5": "bb6f0cc4a3fffd0960c3e7e730cf623a",
+      "fileName": "config/IC2.ini",
+      "fileType": 0
+    },
+    {
+      "name": "config/Quark.cfg",
+      "nameType": "file",
+      "version": "28.12.2016",
+      "versionType": "tracked",
+      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Modpack%205%20%281.10.2%29/config/Quark.cfg",
+      "downloadType": "directDownload",
+      "md5": "59fcbc91d49410e9ff80df9d6d309598",
+      "fileName": "config/Quark.cfg",
+      "fileType": 0
+    },
+    {
+      "name": "roguelike",
+      "nameType": "zipEntry",
+      "version": "1.10.2-1.5.9",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2394/197/RoguelikeDungeons-1.10.2-1.5.9.jar",
+      "downloadType": "directDownload",
+      "md5": "68cd5a9e9e8d60e33c9770c720b4befb",
+      "fileName": "mods/RoguelikeDungeons-1.10.2-1.5.9.jar",
+      "fileType": 0
+    },
+    {
+      "name": "itemscroller",
+      "nameType": "zipEntry",
+      "version": "0.11.0",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2393/388/itemscroller-1.10.2-0.11.0.jar",
+      "downloadType": "directDownload",
+      "md5": "84824e9d76f8809e78b851cc3710dbb9",
+      "fileName": "mods/itemscroller-1.10.2-0.11.0.jar",
+      "fileType": 0
+    },
+    {
+      "name": "llor",
+      "nameType": "zipEntry",
+      "version": "1.1.1-mc[1.9-1.11]",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2346/490/LLOverlayReloaded-1.1.1-mc%5b1.9-1.11%5d.jar",
+      "downloadType": "directDownload",
+      "md5": "a618267197c016ad8897b917b96b6a1e",
+      "fileName": "mods/LLOverlayReloaded-1.1.1-mc%5b1.9-1.11%5d.jar",
+      "fileType": 0
+    },
+    {
+      "name": "compactsolars",
+      "nameType": "zipEntry",
+      "version": "1.10.2-5.0.12.336",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2447/200/CompactSolars-1.10.2-5.0.12.336-universal.jar",
+      "downloadType": "directDownload",
+      "md5": "f273d7d3f7b0f4f81d2f30809da27772",
+      "fileName": "mods/CompactSolars-1.10.2-5.0.12.336-universal.jar",
+      "fileType": 0
+    },
+    {
+      "name": "config/dangertechmobs.cfg",
+      "nameType": "file",
+      "version": "12.01.2017",
+      "versionType": "tracked",
+      "downloadUrl": "https://dl.dropboxusercontent.com/u/87474141/minecraft/Modpack%205%20%281.10.2%29/config/dangertechmobs.cfg",
+      "downloadType": "directDownload",
+      "md5": "77252b382b0aca235c40d6aac36e64bd",
+      "fileName": "config/dangertechmobs.cfg",
+      "fileType": 0
+    },
+    {
+      "name": "thaumcraft",
+      "nameType": "zipEntry",
+      "version": "1.10.2-6.0.BETA4",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2529/223/Thaumcraft-1.10.2-6.0.BETA4.jar",
+      "downloadType": "directDownload",
+      "md5": "4469e9c4d512fbefda3b4f41ea35c3ea",
+      "fileName": "mods/Thaumcraft-1.10.2-6.0.BETA4.jar",
+      "fileType": 0
+    },
+    {
+      "name": "ctm",
+      "nameType": "zipEntry",
+      "version": "MC1.10.2-0.2.3.26",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2484/990/CTM-MC1.10.2-0.2.3.26.jar",
+      "downloadType": "directDownload",
+      "md5": "9adc73d5fa96f3699a8f18f7874efd67",
+      "fileName": "mods/CTM-MC1.10.2-0.2.3.26.jar",
+      "fileType": 0
+    },
+    {
+      "name": "StorageDrawers",
+      "nameType": "zipEntry",
+      "version": "1.10.2-3.7.10",
+      "versionType": "zipEntry",
+      "downloadUrl": "https://media.forgecdn.net/files/2446/106/StorageDrawers-1.10.2-3.7.10.jar",
+      "downloadType": "directDownload",
+      "md5": "89c991cd3988616128cee48d21ff3115",
+      "fileName": "mods/StorageDrawers-1.10.2-3.7.10.jar",
+      "fileType": 0
+    },
+    {
+      "name": "mods/GalacticraftCore-1.10.2-4.0.1.133.jar",
+      "nameType": "file",
+      "version": "mods/GalacticraftCore-1.10.2-4.0.1.133.jar",
+      "versionType": "file",
+      "downloadUrl": "https://ci.micdoodle8.com/job/Galacticraft-1.10/133/artifact/Forge/build/libs/GalacticraftCore-1.10.2-4.0.1.133.jar",
+      "downloadType": "directDownload",
+      "md5": "2ec6e0a70d73a33849912706054cf6ca",
+      "fileName": "mods/GalacticraftCore-1.10.2-4.0.1.133.jar",
+      "fileType": 0
+    },
+    {
+      "name": "mods/Galacticraft-Planets-1.10.2-4.0.1.133.jar",
+      "nameType": "file",
+      "version": "mods/Galacticraft-Planets-1.10.2-4.0.1.133.jar",
+      "versionType": "file",
+      "downloadUrl": "https://ci.micdoodle8.com/job/Galacticraft-1.10/133/artifact/Forge/build/libs/Galacticraft-Planets-1.10.2-4.0.1.133.jar",
+      "downloadType": "directDownload",
+      "md5": "8eb039275232d0f0463a1f92c3c47a9e",
+      "fileName": "mods/Galacticraft-Planets-1.10.2-4.0.1.133.jar",
+      "fileType": 0
+    },
+    {
+      "name": "mods/MicdoodleCore-1.10.2-4.0.1.133.jar",
+      "nameType": "file",
+      "version": "mods/MicdoodleCore-1.10.2-4.0.1.133.jar",
+      "versionType": "file",
+      "downloadUrl": "https://ci.micdoodle8.com/job/Galacticraft-1.10/133/artifact/Forge/build/libs/MicdoodleCore-1.10.2-4.0.1.133.jar",
+      "downloadType": "directDownload",
+      "md5": "f1247a3fc8dc4c4fc78963889f1c1b4b",
+      "fileName": "mods/MicdoodleCore-1.10.2-4.0.1.133.jar",
+      "fileType": 0
+    }
+  ]
+}
