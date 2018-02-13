@@ -568,6 +568,17 @@
       "md5": "363594e0a3124a4f8ef4d5855078428f",
       "fileName": "config/Galacticraft/core.conf",
       "fileType": 0
+    },
+    {
+      "name": "config/machinemuse/numina.cfg",
+      "nameType": "file",
+      "version": "13.02.2018",
+      "versionType": "tracked",
+      "downloadUrl": "https://raw.githubusercontent.com/Nuklearwurst/Minecraft-Modpacks/master/Modpack%207%20(1.10.2)/config/machinemuse/numina.cfg",
+      "downloadType": "directDownload",
+      "md5": "1f2ea4cb0943f7d180db34b7891f0781",
+      "fileName": "config/machinemuse/numina.cfg",
+      "fileType": 0
     }
   ]
 }
