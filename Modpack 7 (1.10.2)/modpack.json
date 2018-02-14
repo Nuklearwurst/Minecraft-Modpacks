@@ -319,12 +319,12 @@
     {
       "name": "thaumcraft",
       "nameType": "zipEntry",
-      "version": "1.10.2-6.0.BETA4",
+      "version": "1.10.2-6.0.BETA5",
       "versionType": "zipEntry",
-      "downloadUrl": "https://media.forgecdn.net/files/2529/223/Thaumcraft-1.10.2-6.0.BETA4.jar",
+      "downloadUrl": "https://media.forgecdn.net/files/2531/151/Thaumcraft-1.10.2-6.0.BETA5.jar",
       "downloadType": "directDownload",
-      "md5": "4469e9c4d512fbefda3b4f41ea35c3ea",
-      "fileName": "mods/Thaumcraft-1.10.2-6.0.BETA4.jar",
+      "md5": "7600f55c2905ba1fc068b904b08ef180",
+      "fileName": "mods/Thaumcraft-1.10.2-6.0.BETA5.jar",
       "fileType": 0
     },
     {
